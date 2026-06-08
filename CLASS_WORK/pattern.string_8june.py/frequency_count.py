@@ -1,0 +1,1 @@
+##WAP to inpit the sentence and display the frequendcy of vowels which are present in the sentence ignoring the case .
